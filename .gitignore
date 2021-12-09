@@ -1,0 +1,7 @@
+*.class
+
+*.classpath
+target/
+
+*.log
+
